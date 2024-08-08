@@ -17,7 +17,7 @@ Electric vehicle range prediction is a critical task that helps alleviate range 
    - Visualized relationships between variables to gain insights into factors affecting range.
 
 3. **Model Development**
-   - Employed various machine learning algorithms such as Linear Regression, Random Forest, and Gradient Boosting to predict vehicle range.
+   - Employed various machine learning algorithms such as Linear Regression to predict vehicle range.
    - Fine-tuned hyperparameters to optimize model performance.
 
 
