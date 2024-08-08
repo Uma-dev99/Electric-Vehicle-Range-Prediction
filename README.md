@@ -49,7 +49,7 @@ To get started with this project, follow these steps:
    ```
 3. **Activate Virtual Environment**
    ```
-      poetry shell
+    poetry shell
    ```
 5. **Run Jupyter Notebook**
    ```
