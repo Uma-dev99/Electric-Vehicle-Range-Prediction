@@ -45,13 +45,12 @@ To get started with this project, follow these steps:
 2. **Install Poetry**
    ```
    poetry install
-
    ```
 3. **Activate Virtual Environment**
    ```
-    poetry shell
+   poetry shell
    ```
 5. **Run Jupyter Notebook**
    ```
-      jupyter notebook electric_vehicle_range_prediction.ipynb
+   jupyter notebook electric_vehicle_range_prediction.ipynb
    ```
