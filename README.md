@@ -27,8 +27,6 @@ Electric vehicle range prediction is a critical task that helps alleviate range 
 5. **Prediction and Inference**
    - Used the trained model to make predictions on new data, providing accurate range estimates under different conditions.
 
-6. **Model Deployment (Optional)**
-   - Considered deploying the model using a simple Flask/Django web application to make predictions accessible to users.
 
 ## Technologies Used
 - **Programming Language:** Python
