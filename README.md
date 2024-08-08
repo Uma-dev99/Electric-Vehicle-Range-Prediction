@@ -52,11 +52,8 @@ To get started with this project, follow these steps:
 3. **Activate Virtual Environment**
    ```
       poetry shell
-
-   
    ```
 5. **Run Jupyter Notebook**
    ```
       jupyter notebook electric_vehicle_range_prediction.ipynb
-   
    ```
